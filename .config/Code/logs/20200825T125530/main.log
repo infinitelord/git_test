@@ -1,0 +1,41 @@
+[2020-08-25 12:55:30.458] [main] [info] update#setState idle
+[2020-08-25 12:56:00.473] [main] [info] update#setState checking for updates
+[2020-08-25 12:56:00.501] [main] [info] update#setState idle
+[2020-08-25 13:56:00.526] [main] [info] update#setState checking for updates
+[2020-08-25 13:56:00.539] [main] [error] Error: net::ERR_NAME_RESOLUTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:2657:21)
+    at SimpleURLLoaderWrapper.emit (events.js:203:13)
+[2020-08-25 13:56:00.539] [main] [info] update#setState idle
+[2020-08-25 14:56:00.553] [main] [info] update#setState checking for updates
+[2020-08-25 14:56:00.558] [main] [error] Error: net::ERR_NAME_RESOLUTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:2657:21)
+    at SimpleURLLoaderWrapper.emit (events.js:203:13)
+[2020-08-25 14:56:00.558] [main] [info] update#setState idle
+[2020-08-25 15:56:00.576] [main] [info] update#setState checking for updates
+[2020-08-25 15:56:00.588] [main] [error] Error: net::ERR_NAME_RESOLUTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:2657:21)
+    at SimpleURLLoaderWrapper.emit (events.js:203:13)
+[2020-08-25 15:56:00.588] [main] [info] update#setState idle
+[2020-08-25 16:56:00.597] [main] [info] update#setState checking for updates
+[2020-08-25 16:56:00.604] [main] [error] Error: net::ERR_NAME_RESOLUTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:2657:21)
+    at SimpleURLLoaderWrapper.emit (events.js:203:13)
+[2020-08-25 16:56:00.604] [main] [info] update#setState idle
+[2020-08-25 17:56:00.612] [main] [info] update#setState checking for updates
+[2020-08-25 17:56:00.619] [main] [error] Error: net::ERR_NAME_RESOLUTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:2657:21)
+    at SimpleURLLoaderWrapper.emit (events.js:203:13)
+[2020-08-25 17:56:00.619] [main] [info] update#setState idle
+[2020-08-25 18:56:00.912] [main] [info] update#setState checking for updates
+[2020-08-25 18:56:00.923] [main] [error] Error: net::ERR_NAME_RESOLUTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:2657:21)
+    at SimpleURLLoaderWrapper.emit (events.js:203:13)
+[2020-08-25 18:56:00.923] [main] [info] update#setState idle
+[2020-08-25 22:17:25.023] [main] [info] update#setState checking for updates
+[2020-08-25 22:17:25.146] [main] [info] update#setState idle
+[2020-08-25 23:17:25.036] [main] [info] update#setState checking for updates
+[2020-08-25 23:17:25.247] [main] [info] update#setState idle
+[2020-08-26 00:17:25.054] [main] [info] update#setState checking for updates
+[2020-08-26 00:17:25.985] [main] [info] update#setState idle
+[2020-08-26 10:09:40.946] [main] [info] update#setState checking for updates
+[2020-08-26 10:09:41.065] [main] [info] update#setState idle

@@ -1,0 +1,15 @@
+[2020-08-25 12:36:22.383] [sharedprocess] [info] main {"machineId":"9df3dab830d69ca6dc58fabe06eb47963c331e578ca7b8fa3549b577484e2975","windowId":2}
+[2020-08-25 12:36:22.461] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/abraham/.config/Code/User/snippets'
+[2020-08-25 12:37:02.421] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-08-25 12:41:09.011] [sharedprocess] [info] Installing extension: ritwickdey.liveserver
+[2020-08-25 12:41:10.090] [sharedprocess] [info] Downloaded extension: ritwickdey.liveserver /home/abraham/.config/Code/CachedExtensionVSIXs/ritwickdey.liveserver-5.6.1
+[2020-08-25 12:41:15.116] [sharedprocess] [info] Extracted extension to /home/abraham/.vscode/extensions/.ritwickdey.liveserver-5.6.1: ritwickdey.liveserver
+[2020-08-25 12:41:15.116] [sharedprocess] [info] Renamed to /home/abraham/.vscode/extensions/ritwickdey.liveserver-5.6.1
+[2020-08-25 12:41:15.118] [sharedprocess] [info] Installation completed. ritwickdey.liveserver
+[2020-08-25 12:41:15.128] [sharedprocess] [info] Extensions installed successfully: ritwickdey.liveserver
+[2020-08-25 12:50:59.878] [sharedprocess] [info] Installing extension: gurayyarar.dummytextgenerator
+[2020-08-25 12:51:00.230] [sharedprocess] [info] Downloaded extension: gurayyarar.dummytextgenerator /home/abraham/.config/Code/CachedExtensionVSIXs/gurayyarar.dummytextgenerator-1.0.1
+[2020-08-25 12:51:00.272] [sharedprocess] [info] Extracted extension to /home/abraham/.vscode/extensions/.gurayyarar.dummytextgenerator-1.0.1: gurayyarar.dummytextgenerator
+[2020-08-25 12:51:00.272] [sharedprocess] [info] Renamed to /home/abraham/.vscode/extensions/gurayyarar.dummytextgenerator-1.0.1
+[2020-08-25 12:51:00.273] [sharedprocess] [info] Installation completed. gurayyarar.dummytextgenerator
+[2020-08-25 12:51:00.280] [sharedprocess] [info] Extensions installed successfully: gurayyarar.dummytextgenerator

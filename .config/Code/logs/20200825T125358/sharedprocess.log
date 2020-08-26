@@ -1,0 +1,3 @@
+[2020-08-25 12:54:02.672] [sharedprocess] [info] main {"machineId":"9df3dab830d69ca6dc58fabe06eb47963c331e578ca7b8fa3549b577484e2975","windowId":2}
+[2020-08-25 12:54:02.790] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/abraham/.config/Code/User/snippets'
+[2020-08-25 12:54:42.733] [sharedprocess] [info] Starting to clean up unused language packs.
